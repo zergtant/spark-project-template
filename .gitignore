@@ -1,0 +1,13 @@
+/classes/
+/test-classes/
+/.settings/
+/target/
+*.dex
+*.class
+gen/
+.classpath
+.project
+.DS_Store
+/.idea
+*.iml
+/dependency-reduced-pom.xml

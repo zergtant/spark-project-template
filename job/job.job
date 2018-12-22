@@ -1,0 +1,2 @@
+type=command
+command=sh ../bin/test.sh -t ${day}
