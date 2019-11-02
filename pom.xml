@@ -7,7 +7,7 @@
   <!-- 这里放每个jar包的版本信息-->
   <properties>
   <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  <spark.version>2.0.0.2.5.0.0-1245</spark.version>
+  <spark.version>2.4.4</spark.version>
   <hbase.version>1.1.2.2.5.0.0-1245</hbase.version>
   <kafka.version>0.10.0.2.5.0.0-1245</kafka.version>
   <slf4j.version>1.6.2</slf4j.version>
