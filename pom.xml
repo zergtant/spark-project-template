@@ -11,7 +11,7 @@
   <hbase.version>1.1.2.2.5.0.0-1245</hbase.version>
   <kafka.version>0.10.0.2.5.0.0-1245</kafka.version>
   <slf4j.version>1.6.2</slf4j.version>
-  <fastjson.version>1.1.41</fastjson.version>
+  <fastjson.version>1.2.83</fastjson.version>
   <zookeeper.version>3.4.6</zookeeper.version>
   <zkclient.version>0.8</zkclient.version>
   <esspark.version>6.3.1</esspark.version>
