@@ -9,7 +9,7 @@
   <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   <spark.version>2.0.0.2.5.0.0-1245</spark.version>
   <hbase.version>1.1.2.2.5.0.0-1245</hbase.version>
-  <kafka.version>0.10.0.2.5.0.0-1245</kafka.version>
+  <kafka.version>0.10.2.2</kafka.version>
   <slf4j.version>1.6.2</slf4j.version>
   <fastjson.version>1.1.41</fastjson.version>
   <zookeeper.version>3.4.6</zookeeper.version>
